@@ -1,0 +1,20 @@
+HIP-0000 HIP Tamplate
+=====================
+
+HIP Header 
+----------
+
+> BIP: <BIP number>
+>  Title: <BIP title>
+>  Author: <list of authors' real names and optionally, email addrs>
+> * Discussions-To: <email address>
+>  Status: <Draft | Active | Accepted | Deferred | Rejected |
+>           Withdrawn | Final | Superseded>
+>  Type: <Standards Track | Informational | Process>
+>  Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+>* Post-History: <dates of postings to bitcoin mailing list>
+>* Replaces: <BIP number>
+>* Superseded-By: <BIP number>
+>* Resolution: <url>
+
+this is normal paragraph.

@@ -1,39 +1,24 @@
 
 
-This is an H1
-=============
+hips
+====
+Specifications and Hdac Improvement Proposals for the
+[Hdac cryptocurrency](https://hdactech.com/)]
 
-This is an H2
--------------
+The HIP proponent writes ideas and registers them in the [GitHub/issue](https://github.com/Hdactech/hdac/issues).
+The proposal is listed on the HIP after agreeing to the conclusion through discussion of the developer group.
+The idea above is possible with Hdac's technical standards, performance improvements, or any suggestions.
 
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+Participation in the Hdac project is subject to a
+[Code of Conduct](https://github.com/Hdactech/hdac).
 
+License
+-------
 
-> This is a blockqute.
+The contents of this repository are released under the terms of the MIT license.
+See [COPYING](COPYING) for more information or see http://opensource.org/licenses/MIT.
 
-* 빨강
-  * 녹색
-    * 파랑
-
-+ 빨강
-  + 녹색
-    + 파랑
-
-- 빨강
-  - 녹색
-    - 파랑
-
-
-  * 1단계
-   - 2단계
-   	+ 3단계
-      = 4단계
-        
-``` This is a normal paragraph: This is a code block. end code block. ```
-
+| Number                    | Title                                                                 | Type          | Status   |
+|---------------------------|-----------------------------------------------------------------------|---------------|----------|
+| [HIP-0000](hip-0000.md) | HIP Template                                                         | Informational | Accepted |
         

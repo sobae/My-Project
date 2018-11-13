@@ -26,5 +26,5 @@ Documents List
 --------------
 | Number                 |Layer   | Title                                                                 | Type          | Status   |
 |------------------------|-------|---------------------------------------------------------------------|---------------|----------|
-| [HIP-0000](hip-0000.md) |       |  HIP Template                                                       | Informational | Draft |
+| [HIP-0000](HIP-0000.md) |       |  HIP Template                                                       | Informational | Draft |
         

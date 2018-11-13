@@ -1,13 +1,17 @@
 
 
-hips
+HIPs
 ====
-Specifications and Hdac Improvement Proposals for the
+This site discusses and publishes the technical standards and proposals required for the continued development of
 [Hdac cryptocurrency](https://hdactech.com/)
 
-#The HIP proponent writes ideas and registers them in the [GitHub/issue](https://github.com/Hdactech/hdac/issues).
-#The proposal is listed on the HIP after agreeing to the conclusion through discussion of the developer group.
-#The idea above is possible with Hdac's technical standards, performance improvements, or any suggestions.
+Anyone with an idea or opinion for the HIP can liberaly propose [GitHub/issue](https://github.com/Hdactech/hdac/issues) with a simple idea or document.
+
+The idea above is possible with Hdac's technical standards, performance improvements, or any suggestions.
+
+Each proposal will be drafted by HIP editor through communication with proposer and discussed by the developer group.
+
+The proposal is listed on the HIP after agreeing to the conclusion through discussion of the developer group.
 
 
 License

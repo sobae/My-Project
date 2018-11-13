@@ -17,8 +17,10 @@ The proposal is listed on the HIP after agreeing to the conclusion through discu
 License
 -------
 
-#The contents of this repository are released under the terms of the MIT license.
-#See [COPYING](COPYING) for more information or see http://opensource.org/licenses/MIT.
+The contents of this repository are released under the terms of the MIT license.
+
+See [COPYING](COPYING) for more information or see http://opensource.org/licenses/MIT.
+
 
 | Number                 |Layer   | Title                                                                 | Type          | Status   |
 |------------------------|-------|---------------------------------------------------------------------|---------------|----------|

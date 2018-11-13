@@ -11,7 +11,7 @@ The idea above is possible with Hdac's technical standards, performance improvem
 
 Each proposal will be drafted by HIP editor through communication with proposer and discussed by the developer group.
 
-The proposal is listed on the HIP after agreeing to the conclusion through discussion of the developer group.
+The proposal is listed on the HIPs after consensus through discussion of the developer group.
 
 
 License
@@ -19,7 +19,7 @@ License
 
 The contents of this repository are released under the terms of the MIT license.
 
-See [COPYING](COPYING) for more information or see http://opensource.org/licenses/MIT.
+See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 
 Documents List

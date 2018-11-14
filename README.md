@@ -2,7 +2,7 @@
 
 HIPs
 ====
-This site discusses and publishes the technical standards and proposals required for improvement of
+This repository discusses and publishes the technical standards and proposals required for improvement of
 [Hdac cryptocurrency](https://hdactech.com/)
 
 Anyone with an idea or opinion for the HIP can liberaly propose [GitHub/issue](https://github.com/Hdactech/hdac/issues) with a simple idea or document.

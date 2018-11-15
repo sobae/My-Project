@@ -19,7 +19,7 @@ License
 
 The contents of this repository are released under the terms of the MIT license.
 
-See http://opensource.org/licenses/MIT for more information.
+See [LICENSE](License.md) or See http://opensource.org/licenses/MIT for more information.
 
 
 Documents List
